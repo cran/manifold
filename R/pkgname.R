@@ -8,20 +8,19 @@
 #' Dai X, Lopez-Pintado S. Tukey’s depth for object data. Journal of the American Statistical Association. 2021;In press. 
 #' 
 #' 
-#' Maintainer:  Xiongtao Dai \email{xdai@@berkeley.edu}
+#' Maintainer:  Xiongtao Dai \email{xiongtao.dai@@hotmail.com}
 #' 
 #' @author
-#' Xiongtao Dai \email{xdai@@berkeley.edu}
+#' Xiongtao Dai \email{xiongtao.dai@@hotmail.com}
 #' Zhenhua Lin
 #'
 #'
 #' 
 #'
-#' @docType package
 #' @name manifold
 #' @useDynLib manifold
 #' @import Rcpp
 #' @importFrom Matrix bdiag
 #' @importFrom stats setNames pchisq prcomp cov rnorm rexp rt
 #' @importFrom utils methods
-NULL
+"_PACKAGE"

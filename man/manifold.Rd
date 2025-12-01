@@ -2,6 +2,7 @@
 % Please edit documentation in R/pkgname.R
 \docType{package}
 \name{manifold}
+\alias{manifold-package}
 \alias{manifold}
 \title{manifold: Operations for Riemannian manifolds}
 \description{
@@ -13,9 +14,9 @@ Dai X, Lin Z, Müller HG. Modeling sparse longitudinal data on Riemannian manifo
 Dai X, Lopez-Pintado S. Tukey’s depth for object data. Journal of the American Statistical Association. 2021;In press. 
 
 
-Maintainer:  Xiongtao Dai \email{xdai@berkeley.edu}
+Maintainer:  Xiongtao Dai \email{xiongtao.dai@hotmail.com}
 }
 \author{
-Xiongtao Dai \email{xdai@berkeley.edu}
+Xiongtao Dai \email{xiongtao.dai@hotmail.com}
 Zhenhua Lin
 }

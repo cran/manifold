@@ -1,4 +1,4 @@
-83f2a72b9b8f37d0008967f20e402222 *DESCRIPTION
+340637e2ecd7760cef5db160a110ee8c *DESCRIPTION
 07931e8f31014e0976d3ff03a0ee7954 *LICENSE.note
 2ef024da1922b9e47c97b3c19d700091 *NAMESPACE
 ed79211f57608a70260af25f50c4bd77 *R/EuManifold.R
@@ -11,7 +11,7 @@ fec3cd0add391857e98365b9a636d03b *R/SPDManifolds.R
 1d72a150b5def60534f44d66d7144aea *R/SphereManifold.R
 63e939e54f1f8f0f053b3007e5095775 *R/TorusManifold.R
 a188f397cc5cb0a963e89ff587f8c236 *R/TreeManifold.R
-b06f59acc27e2d978054d36a9b8dc80d *R/pkgname.R
+5ec3af2c0a441d171eb0055f8f698e3c *R/pkgname.R
 b234ee4d69f5fce4486a80fdaf4a4263 *inst/licenses/GPL-2
 1ebbd3e34237af26da5dc08a4e440464 *inst/licenses/GPL-3
 1dfe26b00db0b05a94240cf662b80258 *inst/licenses/LICENSE
@@ -33,7 +33,7 @@ bae5c3a1aa1ba8e2e111631a41a8659b *man/frechetMean.Rd
 771ece71b96f2d7c1c367c5463d99bca *man/geodesicCurve.Rd
 106d057e9a5d931465ddfb4a20c836c8 *man/is.finiteDim.Rd
 c52774b583f3360897964923d8c822db *man/listAvailMfd.Rd
-2339f7592fc5abc3f6fab362a19eb7ea *man/manifold.Rd
+592bb2e6777ebd89ba555d7adb81185e *man/manifold.Rd
 072b49ce3e58d03967f15b0a1040d92d *man/metric.Rd
 b594f376efbfb6011c3e9849911514f5 *man/norm.Rd
 933aa28e43bf4ae25dd716f4b3cfbe5b *man/origin.Rd
